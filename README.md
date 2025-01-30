@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Kiran 👋
 
-<!--
-**KiranMalieakkal/KiranMalieakkal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working as a Junior Developer at Portabel Health.  
+📖 I’m pursuing my Master’s at KTH Royal Institute of Technology.  
+🌱 I’m learning full-stack development with Java, Spring Boot, and React.  
+📫 Reach me at: kiranmalieakkal18@gmail.com  
+💻 Check out my portfolio: [https://kiranmalieakkal.github.io/portfolio/](#)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- Programming: Java, JavaScript, TypeScript
+- Backend: Spring Boot
+- Frontend: React.js, Tailwind CSS, Angular
+- DevOps: Azure, Docker, CI/CD Pipelines
+- Database: PostgreSQL, Firebase, Supabase
+---
+⭐️ **Let's connect!**  
+[LinkedIn](#) | [GitHub](https://github.com/kiranmalieakkal) | [Portfolio](#)
