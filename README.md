@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Kiran.
+#  Hi there! I'm Kiran.
 
 I'm a **Full-Stack Developer** based in Stockholm, passionate about building scalable and user-centric web applications. I enjoy working across the stack and turning complex ideas into clean, functional solutions.
 
