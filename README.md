@@ -34,15 +34,15 @@ I'm a **Full-Stack Developer** based in Stockholm, passionate about building sca
 
 ## 🚀 Featured Projects
 
-### 🧾 Proof of Purchase (POP)  
+###  Proof of Purchase (POP)  
 AI-powered digital receipt manager that scans bills using the device camera and auto-fills data using OCR.  
 **Tech:** Spring Boot, React, Azure, AI-based OCR
 
-### 🗺 TripTrail  
+###  TripTrail  
 Travel tracking app with an interactive world map where users log and visualize their trips.  
 **Tech:** Spring Boot, React, Azure, Angular, Azure SQL, Blob Storage
 
-### 🎮 Prompt Master Game (Salt Bootcamp)  
+###  Prompt Master Game (Salt Bootcamp)  
 A game that uses AI to generate images from user prompts and stores them via ImageKit.  
 **Tech:** React, Spring Boot, ImageKit, Azure Pipelines
 
@@ -58,9 +58,7 @@ A game that uses AI to generate images from user prompts and stores them via Ima
 
 ## 📍 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/kiran-malieakkal-2a66541a5/)](https://www.linkedin.com/in/kiran-malieakkal-2a66541a5/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/kiranmalieakkal)](https://github.com/kiranmalieakkal)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-009688?style=flat-square&link=https://kiranmalieakkal.github.io/portfolio/)](https://kiranmalieakkal.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/kiran-malieakkal-2a66541a5/)](https://www.linkedin.com/in/kiran-malieakkal-2a66541a5/)  [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/kiranmalieakkal)](https://github.com/kiranmalieakkal)  [![Portfolio](https://img.shields.io/badge/-Portfolio-009688?style=flat-square&link=https://kiranmalieakkal.github.io/portfolio/)](https://kiranmalieakkal.github.io/portfolio/)
 
 ---
 
