@@ -32,6 +32,12 @@ I'm a **Full-Stack Developer** based in Stockholm, passionate about building sca
 
 ---
 
+## 💼 Experience Snapshot
+
+-  **Portabel Health** – •	Collaborating in a fast-paced, startup environment to design, develop, and maintain full-stack solutions using Spring Boot (backend) and Angular (frontend).
+-  **Salt (School of Applied Technology)** – •	Developed a secure, team-based proxy service for managing API calls in enterprise applications, ensuring efficient and safe data handling.
+-  **Deloitte Consulting** – Worked as a DevOps Engineer, developing CI/CD pipelines and delivering 125+ Salesforce features with high test coverage.
+
 ## 🚀 Featured Projects
 
 ###  Proof of Purchase (POP)  
@@ -46,13 +52,6 @@ Travel tracking app with an interactive world map where users log and visualize 
 A game that uses AI to generate images from user prompts and stores them via ImageKit.  
 **Tech:** React, Spring Boot, ImageKit, Azure Pipelines
 
----
-
-## 💼 Experience Snapshot
-
--  **Portabel Health** – Developed PWA features, implemented push notifications, and optimized Azure-based CI/CD pipelines.
--  **Salt (School of Applied Technology)** – Built secure full-stack apps and services in agile teams during an intensive bootcamp.
--  **Deloitte Consulting** – Worked as a DevOps Engineer, developing CI/CD pipelines and delivering 125+ Salesforce features with high test coverage.
 
 ---
 
