@@ -62,5 +62,5 @@ A game that uses AI to generate images from user prompts and stores them via Ima
 
 ---
 
-Thanks for visiting my profile! 🚀
+Thanks for visiting my profile! 
 
