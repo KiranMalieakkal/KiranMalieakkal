@@ -1,6 +1,6 @@
 #  Hi there! I'm Kiran.
 
-I'm a **Full-Stack Developer** based in Stockholm, passionate about building scalable and user-centric web applications. I enjoy working across the stack and turning complex ideas into clean, functional solutions.
+I'm a **Full-Stack Developer** based in Zurich, passionate about building scalable and user-centric web applications. I enjoy working across the stack and turning complex ideas into clean, functional solutions.
 
 -  Currently working as a **Junior Developer** at [Portabel Health](https://www.linkedin.com/company/portabel-health/posts/?feedView=all)
 -  Pursuing a **Master’s in Industrial Economics & Management** at **KTH Royal Institute of Technology**
