@@ -6,8 +6,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KiranMalieakkal&color=blue" width="200" />
-<
-
 
 #  Hi there! I'm Kiran.
 
