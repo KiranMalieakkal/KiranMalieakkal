@@ -1,3 +1,7 @@
+## 🐍 My GitHub Contributions
+![GitHub Contribution Snake](https://github.com/KiranMalieakkal/KiranMalieakkal/blob/output/snake.svg)
+
+
 #  Hi there! I'm Kiran.
 
 I'm a **Full-Stack Developer** based in Stockholm, passionate about building scalable and user-centric web applications. I enjoy working across the stack and turning complex ideas into clean, functional solutions.
@@ -56,10 +60,6 @@ A game that uses AI to generate images from user prompts and stores them via Ima
 ---
 
 ## 📍 Let’s Connect!
-![GitHub Contribution Snake](https://github.com/KiranMalieakkal/KiranMalieakkal/blob/output/snake.svg)
-
-
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/kiran-malieakkal-2a66541a5/)](https://www.linkedin.com/in/kiran-malieakkal-2a66541a5/)  [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/kiranmalieakkal)](https://github.com/kiranmalieakkal)  [![Portfolio](https://img.shields.io/badge/-Portfolio-009688?style=flat-square&link=https://kiranmalieakkal.github.io/portfolio/)](https://kiranmalieakkal.github.io/portfolio/)
 
 ---
