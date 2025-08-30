@@ -1,7 +1,12 @@
 ## 🐍 My GitHub Contributions
-![GitHub Contribution Snake](https://github.com/KiranMalieakkal/KiranMalieakkal/blob/output/snake.svg)
-![Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KiranMalieakkal&show_icons=true&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=KiranMalieakkal&color=blue)
+<p align="center">
+  <img src="https://github.com/KiranMalieakkal/KiranMalieakkal/blob/output/snake.svg" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KiranMalieakkal&show_icons=true&theme=radical" width="450" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KiranMalieakkal&color=blue" width="200" />
+<
 
 
 #  Hi there! I'm Kiran.
